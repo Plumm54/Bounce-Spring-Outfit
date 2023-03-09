@@ -1,0 +1,50 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Spring Outfit Colors",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Spring Outfit Colors",
+          "Description": [
+            "Choose between all three variants from Sonic Forces!"
+          ],
+          "Type": "BaseEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "red"
+        }
+
+      ]
+    }
+  ],
+  "Enums": {
+    "BaseEnum": [
+      {
+        "DisplayName": "Red",
+        "Value": "red",
+        "Description": [
+          ""
+        ]
+      },
+      {
+        "DisplayName": "Black",
+        "Value": "black",
+        "Description": [
+          ""
+
+        ]
+      },
+      {
+        "DisplayName": "Green",
+        "Value": "green",
+        "Description": [
+          ""
+        ]
+      }
+
+    ]
+  },
+  "IniFile": "mod.ini"
+}
