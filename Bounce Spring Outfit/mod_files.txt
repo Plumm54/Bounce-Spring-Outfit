@@ -1,1 +1,9 @@
+add black/raw/character/desktop.ini
+add black/raw/character/sonic.pac
+add green/raw/character/desktop.ini
+add green/raw/character/sonic.pac
+add red/raw/character/desktop.ini
+add red/raw/character/sonic.pac
+add red/raw/desktop.ini
+add config.json
 add mod.ini
